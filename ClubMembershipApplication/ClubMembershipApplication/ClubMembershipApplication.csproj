@@ -17,7 +17,10 @@
 
   <ItemGroup>
     <Folder Include="Migrations\" />
-    <Folder Include="FieldValidators\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FieldValidatorAPI\FieldValidatorAPI.csproj" />
   </ItemGroup>
 
 </Project>

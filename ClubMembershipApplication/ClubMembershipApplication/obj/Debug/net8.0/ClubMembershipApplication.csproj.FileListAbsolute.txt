@@ -120,3 +120,5 @@ C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\ClubMember
 C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\ClubMembershipApplication\ClubMembershipApplication\obj\Debug\net8.0\ClubMembershipApplication.pdb
 C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\ClubMembershipApplication\ClubMembershipApplication\obj\Debug\net8.0\ClubMembershipApplication.genruntimeconfig.cache
 C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\ClubMembershipApplication\ClubMembershipApplication\obj\Debug\net8.0\ref\ClubMembershipApplication.dll
+C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\ClubMembershipApplication\ClubMembershipApplication\bin\Debug\net8.0\FieldValidatorAPI.dll
+C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\ClubMembershipApplication\ClubMembershipApplication\bin\Debug\net8.0\FieldValidatorAPI.pdb

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FieldValidatorAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19891280fdfbe685e2fd28fd4e32ab4510b3a656")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+400fed0c412396988c1872648fd558a9f9e3af42")]
 [assembly: System.Reflection.AssemblyProductAttribute("FieldValidatorAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FieldValidatorAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
