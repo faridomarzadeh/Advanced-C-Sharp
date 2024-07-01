@@ -1,0 +1,15 @@
+C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\ThresholdReachedEventApplication\ThresholdReachedEventApplication\bin\Debug\net8.0\ThresholdReachedEventApplication.exe
+C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\ThresholdReachedEventApplication\ThresholdReachedEventApplication\bin\Debug\net8.0\ThresholdReachedEventApplication.deps.json
+C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\ThresholdReachedEventApplication\ThresholdReachedEventApplication\bin\Debug\net8.0\ThresholdReachedEventApplication.runtimeconfig.json
+C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\ThresholdReachedEventApplication\ThresholdReachedEventApplication\bin\Debug\net8.0\ThresholdReachedEventApplication.dll
+C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\ThresholdReachedEventApplication\ThresholdReachedEventApplication\bin\Debug\net8.0\ThresholdReachedEventApplication.pdb
+C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\ThresholdReachedEventApplication\ThresholdReachedEventApplication\obj\Debug\net8.0\ThresholdReachedEventApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\ThresholdReachedEventApplication\ThresholdReachedEventApplication\obj\Debug\net8.0\ThresholdReachedEventApplication.AssemblyInfoInputs.cache
+C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\ThresholdReachedEventApplication\ThresholdReachedEventApplication\obj\Debug\net8.0\ThresholdReachedEventApplication.AssemblyInfo.cs
+C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\ThresholdReachedEventApplication\ThresholdReachedEventApplication\obj\Debug\net8.0\ThresholdReachedEventApplication.csproj.CoreCompileInputs.cache
+C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\ThresholdReachedEventApplication\ThresholdReachedEventApplication\obj\Debug\net8.0\ThresholdReachedEventApplication.sourcelink.json
+C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\ThresholdReachedEventApplication\ThresholdReachedEventApplication\obj\Debug\net8.0\ThresholdReachedEventApplication.dll
+C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\ThresholdReachedEventApplication\ThresholdReachedEventApplication\obj\Debug\net8.0\refint\ThresholdReachedEventApplication.dll
+C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\ThresholdReachedEventApplication\ThresholdReachedEventApplication\obj\Debug\net8.0\ThresholdReachedEventApplication.pdb
+C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\ThresholdReachedEventApplication\ThresholdReachedEventApplication\obj\Debug\net8.0\ThresholdReachedEventApplication.genruntimeconfig.cache
+C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\ThresholdReachedEventApplication\ThresholdReachedEventApplication\obj\Debug\net8.0\ref\ThresholdReachedEventApplication.dll
