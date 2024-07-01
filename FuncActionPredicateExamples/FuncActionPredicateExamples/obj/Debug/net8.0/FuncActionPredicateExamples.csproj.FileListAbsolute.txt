@@ -1,0 +1,15 @@
+C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\FuncActionPredicateExamples\FuncActionPredicateExamples\bin\Debug\net8.0\FuncActionPredicateExamples.exe
+C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\FuncActionPredicateExamples\FuncActionPredicateExamples\bin\Debug\net8.0\FuncActionPredicateExamples.deps.json
+C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\FuncActionPredicateExamples\FuncActionPredicateExamples\bin\Debug\net8.0\FuncActionPredicateExamples.runtimeconfig.json
+C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\FuncActionPredicateExamples\FuncActionPredicateExamples\bin\Debug\net8.0\FuncActionPredicateExamples.dll
+C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\FuncActionPredicateExamples\FuncActionPredicateExamples\bin\Debug\net8.0\FuncActionPredicateExamples.pdb
+C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\FuncActionPredicateExamples\FuncActionPredicateExamples\obj\Debug\net8.0\FuncActionPredicateExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\FuncActionPredicateExamples\FuncActionPredicateExamples\obj\Debug\net8.0\FuncActionPredicateExamples.AssemblyInfoInputs.cache
+C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\FuncActionPredicateExamples\FuncActionPredicateExamples\obj\Debug\net8.0\FuncActionPredicateExamples.AssemblyInfo.cs
+C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\FuncActionPredicateExamples\FuncActionPredicateExamples\obj\Debug\net8.0\FuncActionPredicateExamples.csproj.CoreCompileInputs.cache
+C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\FuncActionPredicateExamples\FuncActionPredicateExamples\obj\Debug\net8.0\FuncActionPredicateExamples.sourcelink.json
+C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\FuncActionPredicateExamples\FuncActionPredicateExamples\obj\Debug\net8.0\FuncActionPredicateExamples.dll
+C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\FuncActionPredicateExamples\FuncActionPredicateExamples\obj\Debug\net8.0\refint\FuncActionPredicateExamples.dll
+C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\FuncActionPredicateExamples\FuncActionPredicateExamples\obj\Debug\net8.0\FuncActionPredicateExamples.pdb
+C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\FuncActionPredicateExamples\FuncActionPredicateExamples\obj\Debug\net8.0\FuncActionPredicateExamples.genruntimeconfig.cache
+C:\Users\masih\Desktop\Development\Back-End\Projects\Advanced-C-Sharp\FuncActionPredicateExamples\FuncActionPredicateExamples\obj\Debug\net8.0\ref\FuncActionPredicateExamples.dll
