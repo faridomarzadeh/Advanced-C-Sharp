@@ -1,0 +1,18 @@
+﻿@page "/"
+@using BlazorServerAppDemo.Pages.Contacts;
+
+<h1 class="page-title">Index Page</h1>
+<ContactsList Contacts="@contacts">
+
+    <NullContacts>
+        <br />
+        <b> Loading Contacts ... </b>
+        <br />
+    </NullContacts>
+    <EmptyContacts>
+        <br />
+        <b> No Contacts Found</b>
+        <br />
+    </EmptyContacts>
+</ContactsList>
+<BasicTextBox @attributes="@Attributes"/>
