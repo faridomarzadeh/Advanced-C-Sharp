@@ -1,0 +1,42 @@
+﻿@page "/demo"
+@using BlazorServerAppDemo.Services;
+@inject IContactService _contactService;
+
+<h3>demo</h3>
+
+<input type="text" placeholder="First Name" @bind="@firstName"/> <br/>
+<input placeholder="Last Name" @bind="@lastName"/><br/>
+<input placeholder="Email" @bind="@email" /><br/>
+<button onclick="@AddContact">Add Contact</button><br/>
+<hr/>
+@if(_contactService.ContactList.Count == 0)
+{
+    <b>No Contacts to display</b>
+}
+else
+{
+    foreach(var contact in _contactService.ContactList)
+    {
+        <b>@contact.FirstName @contact.LastName</b> <br/>
+        <i>@contact.Email</i>
+        <hr />
+    }
+}
+
+@code {
+
+    private string firstName;
+    private string lastName;
+    private string email;
+
+    private void AddContact()
+    {
+        Contact contact = new Contact()
+            {
+                FirstName = firstName,
+                LastName = lastName,
+                Email = email
+            };
+        _contactService.Add(contact);
+    }
+}
