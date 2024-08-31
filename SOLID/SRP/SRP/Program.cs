@@ -8,9 +8,7 @@ public class Program
     {
 
         StandardMessages.Welcome();
-
         Person user = CaptureData.Capture();
-        
         bool isPersonValid = PersonValidator.Validate(user);
 
         if(!isPersonValid)
