@@ -5,13 +5,13 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        Manager accountingVP = new Manager();
+       IManager  accountingVP = new CEO();
 
         accountingVP.FirstName = "Emma";
         accountingVP.LastName = "Stone";
         accountingVP.CalculatePerHourRate(4);
 
-        Employee employee = new Employee();
+        IManaged employee = new Employee();
 
         employee.FirstName = "Tim";
         employee.LastName = "Corey";

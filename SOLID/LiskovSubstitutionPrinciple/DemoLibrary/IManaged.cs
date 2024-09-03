@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace DemoLibrary
 {
-    public interface IManaged
+    public interface IManaged:IEmployee
     {
-        Employee Manager { get; set; }
-        void AssignManager(Employee manager);
+        IManager Manager { get; set; }
+        void AssignManager(IManager manager);
     }
 }

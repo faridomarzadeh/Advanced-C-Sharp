@@ -8,9 +8,9 @@ namespace DemoLibrary
 {
     public class Employee: BaseEmployee, IManaged
     {
-        public Employee Manager { get; set; } = null;
+        public IManager Manager { get; set; } = null;
 
-        public virtual void AssignManager(Employee manager)
+        public virtual void AssignManager(IManager manager)
         {
             this.Manager = manager;
         }
