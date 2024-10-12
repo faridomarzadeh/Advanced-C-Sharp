@@ -1,0 +1,17 @@
+﻿@page "/"
+@inject IAbstractFactory<ISampleOne> factory;
+
+<PageTitle>Index</PageTitle>
+
+<h2>@sampleOne?.CurrentDateTime</h2>
+<button class="btn btn-primary" @onclick="GetNewTime">Get New Time</button>
+
+@code{
+    ISampleOne sampleOne;
+
+    private void GetNewTime()
+    {
+        sampleOne = factory.Create();
+    }
+}
+
