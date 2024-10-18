@@ -60,44 +60,12 @@ namespace ConsoleUI.WithGenerics
                     if (properties[i].Name == header[i])
                     {
                         var property = properties[i];
-                        SetPropertyValue<T>(entry, property, values[i]);
+                        entry.GetType().GetProperty(property.Name).SetValue(entry, Convert.ChangeType(values[i], property.PropertyType));
                     }
                 }
                 list.Add(entry);
             }
             return list;
-        }
-
-        private static void SetPropertyValue<T>(T entry, PropertyInfo property, string value) where T : class
-        {
-            if(property.PropertyType == typeof(string))
-            {
-                property.SetValue(entry, value);
-            }
-            if(property.PropertyType == typeof(bool))
-            {
-                property.SetValue(entry, bool.Parse(value));
-            }
-            if (property.PropertyType == typeof(float))
-            {
-                property.SetValue(entry, float.Parse(value));
-            }
-            if(property.PropertyType == typeof(double))
-            {
-                property.SetValue(entry, double.Parse(value));
-            }
-            if(property.PropertyType == typeof(decimal))
-            {
-                property.SetValue(entry, decimal.Parse(value));
-            }
-            if(property == typeof(int))
-            {
-                property.SetValue(entry, int.Parse(value));
-            }
-            if(property.PropertyType == typeof(DateTime))
-            {
-                property.SetValue(entry, DateTime.Parse(value));
-            }
         }
     }
 }
